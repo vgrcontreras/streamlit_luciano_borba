@@ -8,3 +8,5 @@ st.set_page_config(
 st.title('Julinha do tradelane')
 
 st.image('assets/img/julia.png')
+
+st.video('')
